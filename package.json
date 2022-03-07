@@ -1,5 +1,5 @@
 {
-  "name": "DEFF",
+  "name": "NezeBot",
   "version": "0.0.1",
   "description": "donasi lah Biar semangat🥰)",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "DEFF",
+  "author": "NezeBot",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
